@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Abdelrahman Elgendy </h1>
+        <p>Computer Science Student | Software Developer</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a Computer Science student at Laurier with a strong passion for video game development, website design, and creating impactful real-world applications. I thrive on learning through hands-on experiences and am eager to contribute my skills to innovative projects.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Unity video game</li>
+            <li>Full stack </li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: elge8132@mylaurier.ca</p>
+    </section>
+    <footer>
+        <p>&copy; Abdelrahman Elgendy</p>
+    </footer>
+</body>
+</html>
